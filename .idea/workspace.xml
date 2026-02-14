@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2286a38-74dc-4ab9-bc4c-eba0ce136780" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/payload.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getPostwithjson.py" beforeDir="false" afterPath="$PROJECT_DIR$/getPostwithjson.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paramsApicall.py" beforeDir="false" afterPath="$PROJECT_DIR$/paramsApicall.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,20 +44,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.getApicall.executor&quot;: &quot;Run&quot;,
-    &quot;Python.getPostAuthcall.executor&quot;: &quot;Run&quot;,
-    &quot;Python.paramsApicall.executor&quot;: &quot;Run&quot;,
-    &quot;Python.postApicall.executor&quot;: &quot;Run&quot;,
-    &quot;Python.putApicall.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Pytest-API&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for pytest_demo.test_get_request.executor": "Run",
+    "Python.getApicall.executor": "Run",
+    "Python.getPostAuthcall.executor": "Run",
+    "Python.getPostwithjson.executor": "Run",
+    "Python.paramsApicall.executor": "Run",
+    "Python.postApicall.executor": "Run",
+    "Python.putApicall.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Pytest-API"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Python tests for test_demo.test_get_request" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="API_Pytest_Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_demo.test_get_request&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_demo.test_get_request" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

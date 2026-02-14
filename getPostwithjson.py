@@ -1,6 +1,14 @@
 import requests
 import json
 
+
+# Quick Reference: String vs. File
+# Function 	        Target	        Action	                                     Result
+# json.loads()	    String	    Deserialize (JSON string → Python object)	    Python dict or list
+# json.load()	    File	    Deserialize (File → Python object)	            Python dict or list
+# json.dumps()	    String	    Serialize (Python object → JSON string)	        JSON-formatted str
+# json.dump()	    File	    Serialize (Python object → File)	            Data written to disk
+
 url = "https://fakerestapi.azurewebsites.net"
 
 head = {
